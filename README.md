@@ -10,9 +10,13 @@ Shopsy – Flutter E-Commerce Prototype Shopsy is a simple Flutter-based mobile 
 * Clean UI with responsive design and image error handling.
 * Smooth navigation using MaterialPageRoute.
 
+
 🛠 Tech Stack
+
 Flutter – UI framework Provider – State management Dart – Programming language JSON – Local data source for products
 
 🔗 App Link
+
 You can download or view the app here:
+
 https://github.com/AkhilDask/pocketfm-shopsyproductlistingandcart/releases/download/v1.0.0/pocketfm_shopsy_akhil.apk
