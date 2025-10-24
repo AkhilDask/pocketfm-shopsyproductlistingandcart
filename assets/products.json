@@ -1,0 +1,86 @@
+[
+  {
+    "id": 1,
+    "title": "Avengers T shirt",
+    "description": "Get All your super heroes in one go, grab on and be an avenger.",
+    "price": 399.0,
+    "image": "https://fastly.picsum.photos/id/773/200/300.jpg?blur=5&hmac=IP4zLJOYgUPpa9Mm0oBmvjwMRZo8fbz3DOJrZXNPQ5k"
+  },
+  {
+    "id": 2,
+    "title": "Fossil Watch",
+    "description": "Splash resistant,dust resistant,wear and tear, great for hiking,key adjustment",
+    "price": 15000.0,
+    "image": "https://fastly.picsum.photos/id/773/200/300.jpg?blur=5&hmac=IP4zLJOYgUPpa9Mm0oBmvjwMRZo8fbz3DOJrZXNPQ5k"
+  },
+  {
+    "id": 3,
+    "title": "Sky bags",
+    "description": "Roam freely ,anywhere,everywhere with sky bag your travel companion",
+    "price": 420.0,
+    "image": "https://fastly.picsum.photos/id/773/200/300.jpg?blur=5&hmac=IP4zLJOYgUPpa9Mm0oBmvjwMRZo8fbz3DOJrZXNPQ5k"
+  },
+  {
+    "id": 4,
+    "title": "Winter Jacket- Allen Solly",
+    "description": "Soft, Good for skating , simple adventure thrills",
+    "price": 39190.0,
+    "image": "https://fastly.picsum.photos/id/773/200/300.jpg?blur=5&hmac=IP4zLJOYgUPpa9Mm0oBmvjwMRZo8fbz3DOJrZXNPQ5k"
+  },
+  {
+    "id": 5,
+    "title": "The Mystic Pen",
+    "description": "Smooth handwriting,excellent for students ",
+    "price": 100.0,
+    "image": "https://fastly.picsum.photos/id/773/200/300.jpg?blur=5&hmac=IP4zLJOYgUPpa9Mm0oBmvjwMRZo8fbz3DOJrZXNPQ5k"
+  },
+  {
+    "id": 6,
+    "title": "The Cleaning Kit",
+    "description": "The all in one tool kit ",
+    "price": 1800.0,
+    "image": "https://fastly.picsum.photos/id/773/200/300.jpg?blur=5&hmac=IP4zLJOYgUPpa9Mm0oBmvjwMRZo8fbz3DOJrZXNPQ5k"
+  },
+  {
+    "id": 7,
+    "title": "Sofa Kit",
+    "description": "Excellent for house , office and super comfort",
+    "price": 20000.0,
+    "image": "https://fastly.picsum.photos/id/773/200/300.jpg?blur=5&hmac=IP4zLJOYgUPpa9Mm0oBmvjwMRZo8fbz3DOJrZXNPQ5k"
+  },
+  {
+    "id": 8,
+    "title": "Wooden Dining Table",
+    "description": "Elegant 6-seater table made from premium oak wood with a polished finish.",
+    "price": 30000.0,
+    "image": "https://fastly.picsum.photos/id/773/200/300.jpg?blur=5&hmac=IP4zLJOYgUPpa9Mm0oBmvjwMRZo8fbz3DOJrZXNPQ5k"
+  },
+  {
+    "id": 9,
+    "title": "Bookshelf Organizer",
+    "description": "5-tier open-shelf storage rack, perfect for books, decor, and plants.",
+    "price": 12000.0,
+    "image": "https://fastly.picsum.photos/id/773/200/300.jpg?blur=5&hmac=IP4zLJOYgUPpa9Mm0oBmvjwMRZo8fbz3DOJrZXNPQ5k"
+  },
+  {
+    "id": 10,
+    "title": "Queen Size Bed Frame",
+    "description": "Solid wood bed frame with a minimalistic design and sturdy construction.",
+    "price": 40000.0,
+    "image": "https://fastly.picsum.photos/id/773/200/300.jpg?blur=5&hmac=IP4zLJOYgUPpa9Mm0oBmvjwMRZo8fbz3DOJrZXNPQ5k"
+  },
+  {
+    "id": 11,
+    "title": "Stylish Floor Lamp",
+    "description": "Warm LED light with adjustable neck and sleek matte black finish.",
+    "price": 6500.0,
+    "image": "https://fastly.picsum.photos/id/773/200/300.jpg?blur=5&hmac=IP4zLJOYgUPpa9Mm0oBmvjwMRZo8fbz3DOJrZXNPQ5k"
+  },
+  {
+    "id": 12,
+    "title": "Recliner Sofa",
+    "description": "Soft leather recliner with full back support, ideal for living rooms.",
+    "price": 35000.0,
+    "image": "https://fastly.picsum.photos/id/773/200/300.jpg?blur=5&hmac=IP4zLJOYgUPpa9Mm0oBmvjwMRZo8fbz3DOJrZXNPQ5k"
+  }
+]
