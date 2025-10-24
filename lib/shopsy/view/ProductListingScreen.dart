@@ -108,14 +108,18 @@ class _ProductListScreenState extends State<ProductListScreen> {
               );
             }
         
-            return ListView.separated(
-              padding: const EdgeInsets.all(12),
-              itemCount: products.length,
-              separatorBuilder: (_, __) => const SizedBox(height: 12),
-              itemBuilder: (context, index) {
-                final product = products[index];
-                return _productListItemCard(context, product);
-              },
+            return SingleChildScrollView(
+              child: ListView.separated(
+                padding: const EdgeInsets.all(12),
+                itemCount: products.length,
+                shrinkWrap: true,
+                physics: const NeverScrollableScrollPhysics(),
+                separatorBuilder: (_, __) => const SizedBox(height: 12),
+                itemBuilder: (context, index) {
+                  final product = products[index];
+                  return _productListItemCard(context, product);
+                },
+              ),
             );
           },
         ),
